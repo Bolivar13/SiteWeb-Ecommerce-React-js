@@ -1,0 +1,50 @@
+
+.allItems{
+    display:flex;
+    height: 690px;
+ }
+.linkto{
+    text-decoration: none;
+    margin-bottom: 20px ;
+    padding: 10px;
+
+}
+.linkto:hover{
+    background-color: white;
+    color: black;
+}
+.active{
+    text-decoration: none;
+    margin-bottom: 20px ;
+    padding: 10px;
+    color: red;
+    background-color: white;
+    color: black;
+} 
+ 
+.nvpr{
+    text-align: center;
+} 
+.nv{
+    color:navy;
+ }
+ .btnnvctr{
+    color: white;
+    background-color: navy;
+
+ }
+.asd{
+    background-color:  grey;
+    color:navy;
+}
+ table tr{
+    width: 8%;
+ 
+    
+    
+  }
+  table td   {
+    border : 0.5px solid  black ;
+     
+  }
+ 
