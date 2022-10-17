@@ -1,0 +1,55 @@
+  {
+    "categories": [
+      {
+        "nom": "NoKia",
+        "couleur": "red"
+      },
+      {
+        "nom": "Motorola",
+        "couleur": "black"
+      },
+      {
+        "nom": "BlackBerry",
+        "couleur": "Grey"
+
+      }
+    ] ,
+    "produits": [
+      {
+        "title":"itel" ,
+        "couleur": "red",
+        "prix": 200 ,
+        "stock":13
+      },
+      {
+        "title":"itel" ,
+        "couleur": "red",
+        "prix": 200 ,
+        "stock":13
+      },
+      {
+        "title":"itel" ,
+        "couleur": "red",
+        "prix": 200 ,
+        "stock":13
+      }
+    ] ,
+    "users": [
+      {
+        "nom": "ali",
+        "prenom": "alami"
+      },
+      {
+        "nom": "khald",
+        "prenom": "alami"
+      },
+      {
+        "nom": "flan",
+        "prenom": "flan"
+
+      }
+    ] 
+
+   
+    
+  }   
